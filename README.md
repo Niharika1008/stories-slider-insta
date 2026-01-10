@@ -7,7 +7,7 @@ This project demonstrates a modern, mobile-first approach to building interactiv
 
 ## 🚀 Features
 
-- **Responsive Layout**: Optimized for mobile devices with a fixed-height stories row and scrollable posts feed.
+- **Responsive Layout**: Optimized for mobiledevices with a fixed-height stories row and scrollable posts feed.
 - **Horizontal Scrolling Stories**: Mimics Instagram’s interface with smooth scrollable story slides.
 - **Vertical Scrollable Feed**: Posts are displayed in a vertically scrollable feed.
 - **Modular Components**: Built using React functional components for maintainability and scalability.
